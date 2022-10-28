@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles:wght@400;700&display=swap');
+body {
+    font-family: 'Fuzzy Bubbles', cursive;
+}
+.head {
+    background-color:  #002D62;
+    height: 100px;
+
+}
+
+h1 {
+    color: #F0E68C;
+    text-align: center;
+}
+button {
+    color: #72A0C1; 
+     
+   
+}
+.img {
+    background-image: url(https://media.istockphoto.com/photos/this-is-a-stunning-location-picture-id1184901438?k=20&m=1184901438&s=612x612&w=0&h=4_m3yjKRA_BeEC1fLf-rd-GChqJjw_rSIjQGulgKv64=);
+ 
+    height: 200px;
+    text-align: right;
+    padding-top: 2 00px;
+    color: #F0E68C;
+    font-size: 36px;
+    
+    /* background-repeat: repeat-x; */
+    background-position: center;
+    background-size: cover;
+
+}
+h2 {
+    color: #002D62 ;
+    text-align: center;
+}
+p {
+    color: #002D62;
+}
+.round {
+    width: 200px;
+    height: 200px;
+    background-image: url(https://media.istockphoto.com/photos/efficiently-managing-all-bookings-picture-id941923836?k=20&m=941923836&s=612x612&w=0&h=4iDJhUvjwk8yHpVXoIBPp3PKAbcxzonLFLN7GCZFlgk=);
+    border-radius: 100px;
+    background-position: center;
+    background-size: cover;
+    display: inline-block;
+   margin: 0 25px;
+}
+.roundd {
+    width: 200px;
+    height: 200px;
+    background-image: url(https://media.istockphoto.com/photos/portrait-of-a-confident-mature-businesswoman-working-in-a-modern-picture-id1371934584?k=20&m=1371934584&s=612x612&w=0&h=80Mt6LI63ed8gmMPRIC5spmP--O-3AD4yn7RoNb8BlY=);
+    border-radius: 100px;
+    background-position: center;
+    background-size: cover;
+    display: inline-block;
+    margin: 0 25px;
+}
+.rounddd {
+    width: 200px;
+    height: 200px;
+    background-image: url(https://media.istockphoto.com/photos/handsome-mature-manager-with-arms-crossed-looking-at-camera-smiling-picture-id1323649937?k=20&m=1323649937&s=612x612&w=0&h=PfwPzdA_rK3fTV_ORoAm_lypu73-OF6hhj9iV79rs-0=);
+    border-radius: 100px;
+    background-position: center;
+    background-size: cover;
+    display: inline-block;
+    margin: 0 25px;
+}
+.inline-block {
+    display: inline-block ;
+
+    font-weight: bold;
+    padding: 0 14%;
+    
+}
+.r {
+    width: 200px;
+    height: 200px;
+    background-image: url(https://media.istockphoto.com/photos/portrait-of-a-confident-mature-businesswoman-working-in-a-modern-picture-id1371934584?k=20&m=1371934584&s=612x612&w=0&h=80Mt6LI63ed8gmMPRIC5spmP--O-3AD4yn7RoNb8BlY=);
+    border-radius: 100px;
+    background-position: center;
+    background-size: cover;
+    display: inline-block;
+    margin: 0 25px;
+ 
+}
+
+.section {
+    text-align: center;
+    background-color: #002D62;
+}
+h3 {
+    text-align: center;
+    background-color: #72A0C1;
+    color: #002D62;
+}
+.turkey {
+    text-align:center ;
+    margin: 11px;
+}
+.norway {
+    text-align: center ;
+    margin: 13px;
+}
+h2 {
+background-color: #F0E68C;
+}
+.yellow {
+    background-color: #F0E68C;
+    height: 30px;
+    text-align: center;
+    font-size: 24px ;
+    
+}
